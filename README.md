@@ -13,7 +13,7 @@
 
 ## 🧠 About Me
 
-- 🛠️ Love playing with **Coding • Servers • OS • Virtual Machines**
+- 🛠️ Love playing with **Code • Servers • OS • Virtual Machines**
 - 🔙 Backend: Python, Django, MySQL
 - 🎨 Frontend: HTML, CSS, Tailwind CSS, React
 - 🗄️ Other Tech: Docker, Virtual Machines
