@@ -7,7 +7,7 @@
 </h1>
 <div align="center"> 
 <pre>
-|  Developer • Gamer • Tech Enthusiast  |
+<strong>|</strong> Developer <strong>•</strong> Gamer <strong>•</strong> Tech Enthusiast  <strong>|</strong>
 </pre>
 </div>
 
