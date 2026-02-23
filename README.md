@@ -15,7 +15,7 @@
 
 - 🛠️ Love playing with **Code • Servers • OS • Virtual Machines**
 - ⚙️ Backend: Python, Django, PostgreSQL
-- 🎨 Frontend: HTML, CSS, Tailwind CSS, React
+- ⚡ Frontend: HTML, CSS, Tailwind CSS, React
 - 🐳 Other Tech: Docker, Virtual Machines
 - 🚀 Always learning and improving UI/UX, performance & deployment
 - ♟️ Passionate chess player
