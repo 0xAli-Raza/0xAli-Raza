@@ -8,7 +8,7 @@
 
 <div align="center">
 
-```▓▶  Programmer • Gamer • Tech Enthusiast  ◀▓```
+```▓▶ Programmer • Gamer • Tech Enthusiast ◀▓```
 
 </div>
 
