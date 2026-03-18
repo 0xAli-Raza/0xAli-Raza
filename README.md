@@ -8,7 +8,7 @@
 
 <div align="center">
 
-```▶  Programmer • Gamer • Tech Enthusiast  ◀```
+```▓▶  Programmer • Gamer • Tech Enthusiast  ◀▓```
 
 </div>
 
@@ -59,7 +59,7 @@
 <br/>
 
 ```
-▓▓▓▓▓▓▓  Scroll Down To See My Open Source Projects  ▓▓▓▓▓▓▓
+▓▶  Scroll Down To See My Open Source Projects  ◀▓
 ```
 
 </div>
