@@ -4,15 +4,16 @@
 
 <table><tr><td align="center" style="border: 2px solid #FF6B35; border-radius: 12px; padding: 20px; background: #0d0d0d;">
 
-`▶  P L A Y E R   O N E  ◀`
 
 # <img width="58" height="58" src="https://img.icons8.com/plasticine/100/controller.png" alt="controller" valign="-32%" /> ALI RAZA <img width="48" height="48" src="https://img.icons8.com/color/96/source-code.png" alt="source-code" valign="-32%" />
 
-![Python](https://img.shields.io/badge/PYTHON-FF6B35?style=flat-square&logo=python&logoColor=000)
-![Django](https://img.shields.io/badge/DJANGO-FF6B35?style=flat-square&logo=django&logoColor=000)
-![React](https://img.shields.io/badge/REACT-FFD700?style=flat-square&logo=react&logoColor=000)
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-FF6B35?style=flat-square&logo=postgresql&logoColor=000)
-![Docker](https://img.shields.io/badge/DOCKER-FFD700?style=flat-square&logo=docker&logoColor=000)
+<div align="center">
+
+```▶  Programmer • Gamer • Tech Enthusiast  ◀```
+
+</div>
+
+
 
 </td></tr></table>
 
@@ -59,7 +60,7 @@
 <br/>
 
 ```
-▓▓▓▓▓▓▓  GAME NOT OVER. STILL PLAYING.  ▓▓▓▓▓▓▓
+▓▓▓▓▓▓▓  Scroll Down To See My Open Source Projects  ▓▓▓▓▓▓▓
 ```
 
 </div>
