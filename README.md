@@ -52,7 +52,6 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GITHUB-0d0d0d?style=for-the-badge&logo=github&logoColor=FF6B35)](https://github.com/0xAli-Raza)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=FFD700)](https://linkedin.com/in/0xAli-Raza)
 [![X](https://img.shields.io/badge/X-0d0d0d?style=for-the-badge&logo=x&logoColor=FF6B35)](https://x.com/0xAliRaza_GM)
 
