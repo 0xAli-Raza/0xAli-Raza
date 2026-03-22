@@ -39,6 +39,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Virtualization](https://img.shields.io/badge/Virtualization-183A61?style=for-the-badge&logo=vmware&logoColor=white)
 ![Chess](https://img.shields.io/badge/Chess-000000?style=for-the-badge&logo=chessdotcom&logoColor=green)
+
 ---
 
 ## `▶ LEADERBOARD`
