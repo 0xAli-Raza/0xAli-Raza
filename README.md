@@ -24,7 +24,6 @@
   Full Stack Web Developer and Chess Player with a passion for building beautiful, responsive, clean, responsive, Scalable web apps that solve real-world problems.
 </p>
 
----
 
 ## `▶ SKILLS`
 
