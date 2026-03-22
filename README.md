@@ -19,6 +19,12 @@
 
 </br>
 
+## `▶ ABOUT ME`
+<p>
+  Full Stack Web Developer and Chess Player with a passion for building beautiful, responsive, clean, responsive, Scalable web apps that solve real-world problems.
+</p>
+
+---
 
 ## `▶ SKILLS`
 
@@ -32,8 +38,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Virtualization](https://img.shields.io/badge/Virtualization-183A61?style=for-the-badge&logo=vmware&logoColor=white)
-
-
+![Chess](https://img.shields.io/badge/Chess-000000?style=for-the-badge&logo=chessdotcom&logoColor=green)
 ---
 
 ## `▶ LEADERBOARD`
