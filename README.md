@@ -44,8 +44,7 @@
 ## `▶ LEADERBOARD`
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xAli-Raza&layout=compact&hide_border=true&bg_color=00000000&title_color=FF6B35&text_color=ffffff" height="160"/>
-</br>
+
 <img src="https://github-readme-streak-stats.herokuapp.com?user=0xAli-Raza&hide_border=true&background=00000000&stroke=FF6B35&ring=FFD700&fire=FF6B35&currStreakLabel=FFD700&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff" />
 </br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xAli-Raza&bg_color=00000000&color=FF6B35&line=FFD700&point=FF6B35&hide_border=true&area=true&area_color=FF6B35" width="95%"/>
@@ -56,6 +55,7 @@
 ## `▶ FIND ME`
 
 <div align="center">
+
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=FFD700)](https://linkedin.com/in/0xAli-Raza)
 [![X](https://img.shields.io/badge/X-0d0d0d?style=for-the-badge&logo=x&logoColor=FF6B35)](https://x.com/0xAliRaza_GM)
